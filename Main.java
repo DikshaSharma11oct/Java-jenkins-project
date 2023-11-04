@@ -8,5 +8,8 @@ public class Main{
         System.out.println(new Date());
         System.out.println("this is to test second command on jenkins");
 
+        Student std=new Student();
+        std.hello();
+
     }
 }
